@@ -21,7 +21,7 @@ public class BlackJackMain
 	public static void main(String[] args)
 	{
 		Scanner scanner = new Scanner(System.in);
-		BlackJack blackJack = new BlackJack();
+		blackJack = new BlackJack();
 		blackJack.init();
 		
 		// Multiplayer

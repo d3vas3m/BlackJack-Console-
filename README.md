@@ -1,4 +1,4 @@
-# BlackJack-Console-
+# Blackjack-Console
 Text Based BlackJack game using JAVA
 
 It uses Console to play the game.
